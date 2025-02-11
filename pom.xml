@@ -65,7 +65,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>spring-boot-docker</finalName>
+		<finalName>tktbook</finalName>
 	</build>
 
 </project>
